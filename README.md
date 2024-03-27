@@ -19,6 +19,6 @@
 - **Technologies:**
   - Python, pandas, numpy, seaborn, Plotly
 - **Repository Path:** [Link to Repo](https://github.com/web-dev-champ/CBTC/tree/master/Unemployment%20Analysis%20with%20Python)
-- **Demo:** N/A
+- **Demo:** [Link to Video Demo](https://www.linkedin.com/posts/srijan-sen-b2505222a_cipherbytetech-internship-datascience-activity-7178690557420974080-hVDg?utm_source=share&utm_medium=member_desktop)
 
 Contributions and feedback are welcome!
