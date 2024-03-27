@@ -18,7 +18,7 @@
   - Visualizations are created using libraries like Seaborn and Plotly to provide insights into the unemployment situation in India.
 - **Technologies:**
   - Python, pandas, numpy, seaborn, Plotly
-- **Repository Path:** [Link to Repo]((https://github.com/web-dev-champ/CBTC/tree/master/Unemployment%20Analysis%20with%20Python))
+- **Repository Path:** [Link to Repo](https://github.com/web-dev-champ/CBTC/tree/master/Unemployment%20Analysis%20with%20Python)
 - **Demo:** N/A
 
 Contributions and feedback are welcome!
